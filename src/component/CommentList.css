@@ -1,0 +1,17 @@
+.commentlist{
+	box-shadow:0 -5px 5px -3px rgba(0,0,0,.15);
+}
+.commentlist-topleft{
+	font-size:1.5rem;
+}
+.textarea{
+	height:20vh;
+	min-height:100px;
+}
+.nondecoration{
+	background-color: #fff;
+
+}
+.commentauthor{
+	color:blue;
+}

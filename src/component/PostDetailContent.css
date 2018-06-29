@@ -1,0 +1,16 @@
+.postdetailcontent{
+	background-color: #f2f3f5;
+	box-shadow:0 5px 5px -2px rgba(0,0,0,.15);
+}
+.border-right{
+	border-right:1px solid #ddd;
+	line-height: 24px; 
+}
+.vertivalword{
+    width: 0.8rem;    
+    margin:2rem auto;   
+    word-wrap: break-word;   
+    font-size: 1.2rem; 
+    line-height: 1.1rem; 
+    font-weight:500;  	
+}

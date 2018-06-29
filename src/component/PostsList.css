@@ -1,0 +1,24 @@
+.postsmainpart{
+	padding-top:10vh;
+
+	min-height:200vh;    /*82刚刚是一页*/
+	z-index: 1;
+
+
+
+}
+.boxshadowposts{
+	box-shadow: 0 5px 15px 0 rgba(0,0,0,.08);
+
+}
+
+.PostsView{
+	z-index: 99;
+}
+.StickyContainer{
+	z-index: 101;
+}
+
+/*.headerbackground{
+	background-color: #fff;
+}*/

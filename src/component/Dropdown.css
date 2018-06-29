@@ -1,0 +1,9 @@
+#nobackground{
+	background: #fff;
+	color:black;
+	border:none;
+}
+#dropdownmenu{
+	background-color: #fff;
+	z-index:200;
+}

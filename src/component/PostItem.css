@@ -1,0 +1,20 @@
+#imageconstrain{
+	max-height:40px;
+	max-width:40px;
+}
+
+.shadowbottom{
+	border-bottom: 1px solid #ddd;
+}
+.PostItem{
+	color:black;
+	font-weight: 300;
+	z-index: 101;
+	opacity: 1;
+}
+.PostItem:hover{
+	border:none;
+}
+.bluetext{
+	color:blue;
+}

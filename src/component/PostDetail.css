@@ -1,0 +1,20 @@
+.postdetail{
+	/*min-height:74vh;*/
+	min-height:200vh;
+}
+.postitemtoptitle{
+	font-size:1.5rem;
+	font-weight: 300;
+}
+.postitemtop{
+	background-color: #fff;
+	z-index: 100;    
+	opacity: 1;
+	box-shadow:0 5px 5px -5px rgba(0,0,0,.15);
+}
+.postitemtopicon{
+	font-size:1.2rem;
+}
+.postitemtoplike{
+	color:#346748;
+}

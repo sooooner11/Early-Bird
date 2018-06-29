@@ -1,0 +1,9 @@
+.shadowLine{
+	box-shadow:0 5px 5px -5px rgba(0,0,0,.15);
+	padding-bottom: 10px;
+	background-color: #fff;
+}
+.PostsListTop{
+	z-index: 100;   
+	opacity: 1;
+}
